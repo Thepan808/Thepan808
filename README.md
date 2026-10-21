@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=for-the-badge&labelColor=0a0a0f" />
 <img src="https://img.shields.io/badge/SYSTEM-CYBERDECK-fcee0a?style=for-the-badge&labelColor=0a0a0f" />
 <img src="https://img.shields.io/badge/BOTS_ATIVOS-11-ff003c?style=for-the-badge&labelColor=0a0a0f" />
-<img src="https://komarev.com/ghpvc/?username=Thepan808&label=NETRUNNERS&color=fcee0a&style=for-the-badge&labelColor=0a0a0f" />
+<img src="https://img.shields.io/badge/IDIOMA-PT--BR-ff003c?style=for-the-badge&labelColor=0a0a0f" />
 
 </div>
 
@@ -200,7 +200,7 @@ RPG com 29 classes, mapas, aliados contratáveis, sistema de recrutamento, anima
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Thepan808/Thepan808/output/github-snake-dark.svg" alt="snake" width="100%" />
+<img src="assets/snake.svg" alt="snake" width="100%" />
 
 </div>
 
