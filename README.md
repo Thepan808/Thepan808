@@ -196,7 +196,7 @@ RPG com 29 classes, mapas, aliados contratáveis, sistema de recrutamento, anima
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thepan808&bg_color=0a0a0f&color=00f0ff&line=fcee0a&point=ffffff&area=true&area_color=ff003c&hide_border=true&custom_title=Contribution%20Matrix" width="100%" />
+<img src="assets/activity.svg" width="100%" alt="activity" />
 
 <br/><br/>
 
