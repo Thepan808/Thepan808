@@ -183,7 +183,7 @@ RPG com 29 classes, mapas, aliados contratáveis, sistema de recrutamento, anima
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thepan808&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&icon_color=fcee0a&text_color=ffffff&ring_color=ff003c&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thepan808&custom_title=KYSTER%20%2F%2F%20STATS&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&icon_color=fcee0a&text_color=ffffff&ring_color=ff003c&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepan808&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&text_color=ffffff" />
 
 <img src="https://streak-stats.demolab.com?user=Thepan808&background=0A0A0F&ring=FCEE0A&fire=FCEE0A&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FF003C&stroke=FF003C&border=FF003C&hide_border=true" />
